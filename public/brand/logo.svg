@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 48" fill="none" role="img" aria-label="Aethelys Healthcare Logo">
+  <rect x="2" y="4" width="40" height="40" rx="10" fill="#12304A"/>
+  <path d="M22 13V35M11 24H33" stroke="#DDF3F1" stroke-width="3.2" stroke-linecap="round"/>
+  <circle cx="22" cy="24" r="5" fill="#138A8A" stroke="#F7FAFC" stroke-width="2"/>
+  <path d="M54 30V16.5H57.6L62.6 25.4L67.6 16.5H71.2V30H68.1V21.5L63.8 29.1H61.4L57.1 21.5V30H54Z" fill="#12304A" opacity="0"/>
+  <text x="52" y="25" font-family="Plus Jakarta Sans, Manrope, Inter, system-ui, sans-serif" font-size="18" font-weight="700" letter-spacing="-0.02em" fill="#12304A">AETHELYS</text>
+  <text x="52.5" y="38" font-family="Inter, system-ui, sans-serif" font-size="9.5" font-weight="600" letter-spacing="0.18em" fill="#138A8A">HEALTHCARE</text>
+</svg>

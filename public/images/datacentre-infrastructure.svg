@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" fill="none" role="img" aria-label="Healthcare Data Centre and IT Infrastructure Topology">
+  <rect width="600" height="320" rx="16" fill="#F7FAFC"/>
+  <rect x="1" y="1" width="598" height="318" rx="15" stroke="#D8E2EC" stroke-width="1.5"/>
+
+  <text x="28" y="38" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="14" font-weight="700" fill="#12304A">Healthcare IT Infrastructure &amp; Continuity Architecture</text>
+  <text x="28" y="57" font-family="Inter, sans-serif" font-size="11" fill="#405264">Designed around operational reliability, backup readiness and client security coordination</text>
+
+  <!-- Layer 1 -->
+  <rect x="28" y="82" width="166" height="114" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="44" y="106" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="12" font-weight="700" fill="#12304A">Core Infrastructure</text>
+  <text x="44" y="130" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">• Data-centre planning</text>
+  <text x="44" y="148" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">• Server &amp; storage support</text>
+  <text x="44" y="166" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">• Deployment &amp; migration</text>
+
+  <!-- Layer 2 -->
+  <rect x="217" y="82" width="166" height="114" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="233" y="106" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="12" font-weight="700" fill="#12304A">Continuity &amp; Network</text>
+  <text x="233" y="130" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">• Backup &amp; DR planning</text>
+  <text x="233" y="148" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">• Facility connectivity</text>
+  <text x="233" y="166" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">• Capacity monitoring</text>
+
+  <!-- Layer 3 -->
+  <rect x="406" y="82" width="166" height="114" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="422" y="106" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="12" font-weight="700" fill="#12304A">Application Ecosystem</text>
+  <text x="422" y="130" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">• Hosting coordination</text>
+  <text x="422" y="148" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">• HIS / HMS / EHR coordination</text>
+  <text x="422" y="166" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">• Qualified tech partners</text>
+
+  <!-- Governance Band -->
+  <rect x="28" y="216" width="544" height="74" rx="12" fill="#12304A"/>
+  <text x="48" y="244" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Coordinated with Your Internal IT, Security &amp; Compliance Teams</text>
+  <text x="48" y="266" font-family="Inter, sans-serif" font-size="10.5" fill="#DDF3F1">Scoped to documented institutional policies, change controls and data-sensitivity guidelines.</text>
+</svg>

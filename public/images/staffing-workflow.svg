@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" fill="none" role="img" aria-label="Healthcare Staffing Lifecycle Diagram">
+  <rect width="600" height="320" rx="16" fill="#F7FAFC"/>
+  <rect x="1" y="1" width="598" height="318" rx="15" stroke="#D8E2EC" stroke-width="1.5"/>
+
+  <text x="28" y="38" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="14" font-weight="700" fill="#12304A">Role-Based Healthcare Workforce Delivery Model</text>
+  <text x="28" y="57" font-family="Inter, sans-serif" font-size="11" fill="#405264">Structured sourcing, credential checks, onboarding and ongoing coordination</text>
+
+  <!-- Row 1 -->
+  <rect x="28" y="80" width="166" height="94" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <circle cx="50" cy="104" r="11" fill="#12304A"/>
+  <text x="46.5" y="108" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">1</text>
+  <text x="70" y="108" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="12" font-weight="700" fill="#12304A">Requirement</text>
+  <text x="42" y="132" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">Define department roles,</text>
+  <text x="42" y="148" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">shift patterns &amp; skills</text>
+
+  <rect x="217" y="80" width="166" height="94" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <circle cx="239" cy="104" r="11" fill="#138A8A"/>
+  <text x="235.5" y="108" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">2</text>
+  <text x="259" y="108" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="12" font-weight="700" fill="#12304A">Source &amp; Screen</text>
+  <text x="231" y="132" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">Evaluate qualifications,</text>
+  <text x="231" y="148" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">experience &amp; fit</text>
+
+  <rect x="406" y="80" width="166" height="94" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <circle cx="428" cy="104" r="11" fill="#12304A"/>
+  <text x="424.5" y="108" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">3</text>
+  <text x="448" y="108" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="12" font-weight="700" fill="#12304A">Credential Checks</text>
+  <text x="420" y="132" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">Verify documents &amp;</text>
+  <text x="420" y="148" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">references per law</text>
+
+  <!-- Row 2 -->
+  <rect x="28" y="196" width="260" height="94" rx="12" fill="#E8F0F7" stroke="#CBD5E1"/>
+  <circle cx="50" cy="220" r="11" fill="#138A8A"/>
+  <text x="46.5" y="224" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">4</text>
+  <text x="70" y="224" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="12" font-weight="700" fill="#12304A">Selection &amp; Onboarding</text>
+  <text x="42" y="248" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">Client interview coordination, role briefing</text>
+  <text x="42" y="264" font-family="Inter, sans-serif" font-size="10.5" fill="#405264">and structured shift deployment</text>
+
+  <rect x="312" y="196" width="260" height="94" rx="12" fill="#DDF3F1" stroke="#99D5D2"/>
+  <circle cx="334" cy="220" r="11" fill="#12304A"/>
+  <text x="330.5" y="224" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">5</text>
+  <text x="354" y="224" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="12" font-weight="700" fill="#12304A">Attendance &amp; Replacement Review</text>
+  <text x="326" y="248" font-family="Inter, sans-serif" font-size="10.5" fill="#12304A">Ongoing attendance tracking, client feedback</text>
+  <text x="326" y="264" font-family="Inter, sans-serif" font-size="10.5" fill="#12304A">and agreed continuity replacement process</text>
+</svg>
